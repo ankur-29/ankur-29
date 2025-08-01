@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ankur Anand 👋
 
-<!--
-**ankur-29/ankur-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN + TypeScript Enthusiast  
+🎯 Focused on building scalable, user-first web applications  
+📍 India | 🌐 Open to collaboration & freelance opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git, GitHub, Postman, Vercel, Render
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankur-anand-868522191)
+- 🌐 Portfolio (Coming soon)
+- 📧 Email: ankur.anand@email.com
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+

@@ -23,13 +23,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+<!--
+## 📊 GitHub Status
 
-## 📈 GitHub Stats
-
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur29&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankur29&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur29&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur29&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
 
 ---
-
+-->
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankur-anand-868522191)
